@@ -9,4 +9,4 @@ def reverse_integer(n):
     return "".join(list_of_digits)
 
 
-print(reverse_integer(123456789))
+print(reverse_integer(484543))
